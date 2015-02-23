@@ -1,5 +1,5 @@
 {
-  "name": "geddy-rest",
+  "name": "geddy-ember-rest",
   "description": "RESTfull api for Geddy",
   "keywords": [
     "GeddyJs",
@@ -9,7 +9,7 @@
   "main": "./lib/geddy-rest",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ivanseidel/geddy-rest.git"
+    "url": "git://github.com/flyswatter/geddy-rest.git"
   },
   "readmeFilename": "README.md",
   "version": "0.0.8",
