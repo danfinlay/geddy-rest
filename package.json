@@ -15,7 +15,8 @@
   "version": "0.0.8",
   "author": "Ivan Seidel",
   "dependencies": {
-    "lodash": "2.4.x"
+    "lodash": "2.4.x",
+    "utilities": "^1.0.4"
   },
   "devDependencies": {},
   "engines": {
